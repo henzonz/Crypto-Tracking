@@ -1,0 +1,22 @@
+.main-page{
+  background-color: #343a40;
+}
+.search-bar{
+  outline: 0;
+  border: 0;
+}
+.table-header__fontsize{
+  font-size: 1.1rem;
+}
+.table-body__fontsize{
+  font-size: 0.85rem;
+}
+.green-text{
+  color:green;
+}
+.red-text{
+  color: red;
+}
+.overscroll-x{
+  overscroll-behavior-x: auto;
+}
