@@ -35,8 +35,8 @@ function App() {
 
       <Searchbar handleSearchCrypto={setSearchCrypto} />
       {/* Coins */}
-      <div className="table-responsive">
-        <table className="table table-dark">
+      <div className="table-wrapper table-responsive">
+        <table className="table table-dark" variant="dark">
           <thead className="table-header__fontsize">
             <tr>
               <th scope="col">#</th>
